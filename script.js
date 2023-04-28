@@ -46,4 +46,4 @@ function foo(data1){
 //append the container value in to the body of document.
       document.body.append(container);
     }
-}
+}  

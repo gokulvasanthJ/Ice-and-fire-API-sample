@@ -45,10 +45,11 @@ font-weight: 500;
 body{
     display: flex;
     justify-content: center;
-    
-    background-image:url("https://cdn.cbeditz.com/cbeditz/large/11625401137z2dmgztgkzntpmajk7hbtgup8lmeoj3pqmlzs8akh4bjycsosmycnvtpid3wy6ou7krumxdorvdljtkrsdnzjpiljdleqzkjxtpr.jpg");
-    
+    background-image: url("https://cdn.cbeditz.com/cbeditz/large/11625401137z2dmgztgkzntpmajk7hbtgup8lmeoj3pqmlzs8akh4bjycsosmycnvtpid3wy6ou7krumxdorvdljtkrsdnzjpiljdleqzkjxtpr.jpg");
+    background-size: cover;
+    margin-left: 10%;
 }
+
 
 
 input{
